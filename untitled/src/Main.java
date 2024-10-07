@@ -6,6 +6,7 @@ import java.lang.Math;  //Example - 02
 
 public class Main {
     public static void main(String[] args) throws IOException {
+        // My edit
 
         //Example - 01
         System.out.println("Example - 01:");
